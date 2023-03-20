@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "DRV8329")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ul_PDRV8329AREER/KiCAD/2023-01-05_19-02-22/footprints.pretty")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/TheMa/Downloads/KiCad")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ul_DRV8300DIPWR/KiCAD/2023-01-26_10-15-14/footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints2")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ul_STM32F301C8T6/KiCAD/2023-02-16_10-44-25/footprints.pretty")(options "")(descr ""))
+  (lib (name "KiCad2")(type "KiCad")(uri "C:/Users/TheMa/Downloads/LIB_IR2183SPBF/IR2183SPBF/KiCad/footprint23.pretty")(options "")(descr ""))
+  (lib (name "footprints3")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ul_STM32F405RGT6/KiCAD/2023-02-16_13-14-00/footprints.pretty")(options "")(descr ""))
+  (lib (name "lmr360")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ul_LMR36015SARNXR/KiCAD/2023-03-07_13-48-57/footprints.pretty")(options "")(descr ""))
+)

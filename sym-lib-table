@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "DRV8329")(type "Legacy")(uri "C:/Users/TheMa/Downloads/ul_PDRV8329AREER/KiCAD/2023-01-05_19-02-22/2023-01-05_19-02-22.lib")(options "")(descr ""))
+  (lib (name "IRFR320TRPBF-BE3")(type "Legacy")(uri "C:/Users/TheMa/Downloads/KiCad/IRFR320TRPBF-BE3.lib")(options "")(descr ""))
+  (lib (name "DRV8300PWR")(type "Legacy")(uri "C:/Users/TheMa/Downloads/ul_DRV8300DIPWR/KiCAD/2023-01-26_10-15-14/2023-01-26_10-15-14.lib")(options "")(descr ""))
+)
