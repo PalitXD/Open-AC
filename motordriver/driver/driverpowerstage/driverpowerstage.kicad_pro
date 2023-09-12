@@ -48,13 +48,7 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -118,27 +112,8 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0,
-        0.2,
-        0.3,
-        0.375,
-        0.5,
-        0.75,
-        1.0,
-        1.5,
-        1.85
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        },
-        {
-          "diameter": 0.6,
-          "drill": 0.3
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -358,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "voltage regulator fixed.kicad_pro",
+    "filename": "driverpowerstage.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -437,7 +412,7 @@
   },
   "sheets": [
     [
-      "4cf5ef19-bcd8-4c59-863f-a3efe3cde3ed",
+      "f3943566-2ec2-4491-8726-1a94ae683a11",
       ""
     ]
   ],

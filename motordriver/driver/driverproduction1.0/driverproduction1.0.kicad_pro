@@ -48,13 +48,7 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -118,27 +112,8 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [
-        0.0,
-        0.2,
-        0.3,
-        0.375,
-        0.5,
-        0.75,
-        1.0,
-        1.5,
-        1.85
-      ],
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        },
-        {
-          "diameter": 0.6,
-          "drill": 0.3
-        }
-      ],
+      "track_widths": [],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -344,7 +319,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -358,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "voltage regulator fixed.kicad_pro",
+    "filename": "driverproduction1.0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -437,8 +412,20 @@
   },
   "sheets": [
     [
-      "4cf5ef19-bcd8-4c59-863f-a3efe3cde3ed",
+      "80da6768-12ef-453d-855e-7545e891c31c",
       ""
+    ],
+    [
+      "ebafb242-e5ab-4243-abe4-e8fcc7c0a63e",
+      "psu sheet"
+    ],
+    [
+      "9b9ea144-75b3-4870-b930-183c94e89943",
+      "digital"
+    ],
+    [
+      "46046e2b-d8e4-43dc-9da6-d224e87fd8fe",
+      "variable power supply"
     ]
   ],
   "text_variables": {}

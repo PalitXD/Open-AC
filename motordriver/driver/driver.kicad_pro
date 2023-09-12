@@ -120,14 +120,20 @@
       },
       "track_widths": [
         0.0,
+        0.05,
+        0.075,
+        0.1,
+        0.15,
         0.2,
+        0.25,
         0.3,
-        0.375,
-        0.5,
-        0.75,
+        0.35,
+        0.4,
+        0.7,
+        0.8,
         1.0,
-        1.5,
-        1.85
+        1.25,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -135,8 +141,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.6,
-          "drill": 0.3
+          "diameter": 0.2,
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false,
@@ -358,7 +364,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "voltage regulator fixed.kicad_pro",
+    "filename": "driver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -437,7 +443,7 @@
   },
   "sheets": [
     [
-      "4cf5ef19-bcd8-4c59-863f-a3efe3cde3ed",
+      "87ed6c14-cb71-470d-8ff0-844e5d379e55",
       ""
     ]
   ],

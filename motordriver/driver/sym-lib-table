@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "driver")(type "Legacy")(uri "C:/Users/TheMa/Downloads/ElecDdocs/Mosfet driver/ul_UCC27201DDA/KiCAD/2023-07-22_12-16-21.lib")(options "")(descr ""))
+  (lib (name "2023-07-26_23-22-10")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ElecDdocs/stm32f334/ul_STM32F334C6T6 (1)/KiCADv6/2023-07-26_23-41-03.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS7A47")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ElecDdocs/ul_TPS7A4700RGWR/KiCADv6/2023-08-18_20-55-08.kicad_sym")(options "")(descr ""))
+)
