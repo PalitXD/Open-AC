@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STL6N3LLH6
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2018-06-25 15:20:38
+Downloaded=2023-09-16 10:13:58
+3D=Y

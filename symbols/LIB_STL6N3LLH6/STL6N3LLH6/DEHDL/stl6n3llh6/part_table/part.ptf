@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STL6N3LLH6'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "STL6N3LLH6" (!) = "", "POWERFLAT-2X2", "Other", "511-STL6N3LLH6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL6N3LLH6?qs=symtzNQNgQLOqUYDqyK2eQ%3D%3D", "STMicroelectronics STL6N3LLH6 N-channel MOSFET Transistor, 6 A, 30 V, 6-Pin PowerFLAT", "https://www.st.com/resource/en/datasheet/stl6n3llh6.pdf"
+END_PART
+
+END.

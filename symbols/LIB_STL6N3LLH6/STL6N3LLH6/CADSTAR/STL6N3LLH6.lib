@@ -1,0 +1,16 @@
+.STL6N3LLH6 :1 ;STMicroelectronics STL6N3LLH6 N-channel MOSFET Transistor, 6 A, 30 V, 6-Pin PowerFLAT
+POWERFLAT-2X2
+*STM Q
+*NGS
+*PLB 1="D_1" 2="D_2" 3="G" 4="S_1" 5="D_3" 6="D_4" 7="D_5" 8="S_2"
+*MXP 8
+*DFN STL6N3LLH6
+~!Mouser Part Number (511-STL6N3LLH6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL6N3LLH6?qs=symtzNQNgQLOqUYDqyK2eQ%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STL6N3LLH6)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stl6n3llh6.pdf)
+~!Height (-)
+~!3D_Model (STL6N3LLH6)
+STL6N3LLH6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 

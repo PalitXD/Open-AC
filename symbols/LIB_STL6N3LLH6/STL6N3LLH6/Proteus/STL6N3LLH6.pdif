@@ -1,0 +1,139 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "STL6N3LLH6"
+   (description "STMicroelectronics STL6N3LLH6 N-channel MOSFET Transistor, 6 A, 30 V, 6-Pin PowerFLAT")
+   (family "TRX")
+   (package "POWERFLAT-2X2")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/stl6n3llh6.pdf")
+   (attribute "Mouser Part Number" "511-STL6N3LLH6")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STL6N3LLH6?qs=symtzNQNgQLOqUYDqyK2eQ%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "STL6N3LLH6")
+   (gate
+    (symbol "STL6N3LLH6")
+    (pin "D_1" 1 PS)
+    (pin "D_2" 2 PS)
+    (pin "G" 3 PS)
+    (pin "S_1" 4 PS)
+    (pin "D_3" 5 PS)
+    (pin "D_4" 6 PS)
+    (pin "D_5" 7 PS)
+    (pin "S_2" 8 PS)
+   )
+  )
+  (symbol "STL6N3LLH6"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "POWERFLAT-2X2"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1 1)
+      (pt 1 1)
+      (pt 1 -1)
+      (pt -1 -1)
+      (pt -1 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1 1)
+      (pt -1 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1 1)
+      (pt 1 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -0.70123 -1.268) (pt -0.63277 -1.268)
+     )
+    )
+   )
+   (leg 1 (pt -0.65 -0.8875) (padstack 0))
+   (leg 2 (pt 0 -0.8875) (padstack 0))
+   (leg 3 (pt 0.65 -0.8875) (padstack 0))
+   (leg 4 (pt 0.65 0.8875) (padstack 0))
+   (leg 5 (pt 0 0.8875) (padstack 0))
+   (leg 6 (pt -0.65 0.8875) (padstack 0))
+   (leg 7 (pt -0.3 0) (padstack 7))
+   (leg 8 (pt 0.65 0.0875) (padstack 8))
+   (padstack 0
+    (plated true)
+    (pad (layer TCOP) (rectf 0.3 0.35 0 0 0))
+   )
+   (padstack 7
+    (plated true)
+    (pad (layer TCOP) (rectf 1.05 1.125 0 0 90))
+   )
+   (padstack 8
+    (plated true)
+    (pad (layer TCOP) (rectf 0.35 0.95 0 0 90))
+   )
+   (model "STL6N3LLH6.stp"
+    (euler 0 0 90)
+    (offset 0 -0.009999999776482582 0)
+   )
+  )
+ )
+)

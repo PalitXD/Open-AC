@@ -1,0 +1,16 @@
+.BSZ060NE2LSATMA1 :1 ;N-Channel MOSFET, 40 A, 25 V, 8-Pin TSDSON Infineon BSZ060NE2LSATMA1
+BSZ060NE2LSATMA1
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5" 10="S_4"
+*MXP 10
+*DFN BSZ060NE2LSATMA1
+~!Mouser Part Number (726-BSZ060NE2LSATMA1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ060NE2LSATMA1?qs=OwbwYO03UsIogM4kg2VcJw%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (BSZ060NE2LSATMA1)
+~!Link Datasheet (https://www.infineon.com/dgdl/BSZ060NE2LS_Rev+2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30432ea425a4012ec927cb360e1f)
+~!Height (1.1mm)
+~!3D_Model (BSZ060NE2LSATMA1)
+BSZ060NE2LSATMA1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

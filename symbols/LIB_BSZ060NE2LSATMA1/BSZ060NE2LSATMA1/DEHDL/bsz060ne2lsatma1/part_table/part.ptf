@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BSZ060NE2LSATMA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BSZ060NE2LSATMA1" (!) = "", "BSZ060NE2LSATMA1", "Other", "726-BSZ060NE2LSATMA1", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSZ060NE2LSATMA1?qs=OwbwYO03UsIogM4kg2VcJw%3D%3D", "N-Channel MOSFET, 40 A, 25 V, 8-Pin TSDSON Infineon BSZ060NE2LSATMA1", "https://www.infineon.com/dgdl/BSZ060NE2LS_Rev+2.1.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30432ea425a4012ec927cb360e1f", "1.1 mm"
+END_PART
+
+END.

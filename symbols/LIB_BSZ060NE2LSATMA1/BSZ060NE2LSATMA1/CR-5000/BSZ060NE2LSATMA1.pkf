@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BSZ060NE2LSATMA1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BSZ060NE2LSATMA1")
+        (spec "default")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "POWERFLAT-2X2"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "POWERFLAT-2X2")
+        (spec "default")
+    )
+)
