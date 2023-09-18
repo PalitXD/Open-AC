@@ -1,4 +1,4 @@
-22216559773256878
+22213170645966799
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,13 +13,6 @@ audio belton reverb
 0
 7
 7
-BSZ060NE2LSATMA1
-BSZ060NE2LSATMA1
-BSZ060NE2LSATMA1-2
-MOSFET (N-Channel)
-0
-10
-10
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -91881,31 +91874,24 @@ varistor
 0
 2
 2
-drv8328
-RUY0028A_WQFN_TEX
+esp32-s3
+QFN56_7X7_EXP
 
-DRV8328ARUYR 
+ESP32-S3 
 0
-29
-29
-drv8328
-RUY0028A_WQFN_TEX-L
+57
+57
+esp32-s3
+QFN56_7X7_EXP-L
 
-DRV8328ARUYR 
+ESP32-S3 
 0
-29
-29
-drv8328
-RUY0028A_WQFN_TEX-M
+57
+57
+esp32-s3
+QFN56_7X7_EXP-M
 
-DRV8328ARUYR 
+ESP32-S3 
 0
-29
-29
-stl6n
-POWERFLAT-2X2
-PowerFLAT™ 2x2
-MOSFET (N-Channel)
-0
-8
-8
+57
+57

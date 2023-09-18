@@ -3,4 +3,5 @@
   (lib (name "stl6n")(type "KiCad")(uri "/Users/OwenGriffiths/Documents/GitHub/Open-AC/symbols/LIB_STL6N3LLH6/STL6N3LLH6/KiCad/footprints.pretty")(options "")(descr ""))
   (lib (name "drv8328")(type "KiCad")(uri "/Users/OwenGriffiths/Documents/GitHub/Open-AC/symbols/ul_DRV8328ARUYR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "BSZ060NE2LSATMA1")(type "KiCad")(uri "/Users/OwenGriffiths/Documents/GitHub/Open-AC/symbols/LIB_BSZ060NE2LSATMA1/BSZ060NE2LSATMA1/KiCad/footprints.pretty")(options "")(descr ""))
+  (lib (name "esp32-s3")(type "KiCad")(uri "/Users/owen/Documents/GitHub/Open-AC/symbols/ul_ESP32-S3/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

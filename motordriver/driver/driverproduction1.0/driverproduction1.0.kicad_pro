@@ -443,7 +443,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "SAF"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -524,6 +529,10 @@
     [
       "ff8854f4-85d1-4286-8f18-38f843ca6856",
       "halfbridge"
+    ],
+    [
+      "1ba1819d-3223-4d80-b09a-831256a54d5a",
+      "ESP32"
     ]
   ],
   "text_variables": {}

@@ -8,6 +8,23 @@
   )
 
 
+  (sheet (at 74.93 60.96) (size 40.64 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1ba1819d-3223-4d80-b09a-831256a54d5a)
+    (property "Sheetname" "ESP32" (at 74.93 60.2484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "espmisc.kicad_sch" (at 74.93 93.2946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "driverproduction1.0"
+        (path "/80da6768-12ef-453d-855e-7545e891c31c" (page "7"))
+      )
+    )
+  )
+
   (sheet (at 167.64 16.51) (size 45.72 36.83) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
