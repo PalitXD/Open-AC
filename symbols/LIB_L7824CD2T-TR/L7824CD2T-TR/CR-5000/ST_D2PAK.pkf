@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ST_D2PAK"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ST_D2PAK")
+        (spec "default")
+    )
+)

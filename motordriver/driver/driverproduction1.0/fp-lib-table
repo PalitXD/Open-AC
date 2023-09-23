@@ -4,4 +4,6 @@
   (lib (name "drv8328")(type "KiCad")(uri "/Users/OwenGriffiths/Documents/GitHub/Open-AC/symbols/ul_DRV8328ARUYR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "BSZ060NE2LSATMA1")(type "KiCad")(uri "/Users/OwenGriffiths/Documents/GitHub/Open-AC/symbols/LIB_BSZ060NE2LSATMA1/BSZ060NE2LSATMA1/KiCad/footprints.pretty")(options "")(descr ""))
   (lib (name "esp32-s3")(type "KiCad")(uri "/Users/owen/Documents/GitHub/Open-AC/symbols/ul_ESP32-S3/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "STM32G431")(type "KiCad")(uri "/Users/owen/Documents/GitHub/Open-AC/symbols/QFP50P900X900X160-48N/footprints.pretty")(options "")(descr ""))
+  (lib (name "L7")(type "KiCad")(uri "/Users/owen/Documents/GitHub/Open-AC/symbols/LIB_L7824CD2T-TR/L7824CD2T-TR/KiCad/footprints.pretty")(options "")(descr ""))
 )

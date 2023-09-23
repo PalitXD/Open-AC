@@ -5,4 +5,5 @@
   (lib (name "pot")(type "KiCad")(uri "C:/Users/TheMa/Downloads/ElecDdocs/LIB_MCP4161-103E_P(1)/MCP4161-103E_P/KiCad/MCP4161-103E_P.kicad_sym")(options "")(descr ""))
   (lib (name "fetn")(type "KiCad")(uri "/Users/OwenGriffiths/Documents/GitHub/Open-AC/symbols/LIB_BSZ060NE2LSATMA1/BSZ060NE2LSATMA1/KiCad/BSZ060NE2LSATMA1.kicad_sym")(options "")(descr ""))
   (lib (name "esp32-s3")(type "KiCad")(uri "/Users/owen/Documents/GitHub/Open-AC/symbols/ul_ESP32-S3/KiCADv6/2023-09-18_16-42-56.kicad_sym")(options "")(descr ""))
+  (lib (name "stm32f303")(type "KiCad")(uri "/Users/owen/Documents/GitHub/Open-AC/symbols/stm32f303/STM32F303RCT6.kicad_sym")(options "")(descr ""))
 )

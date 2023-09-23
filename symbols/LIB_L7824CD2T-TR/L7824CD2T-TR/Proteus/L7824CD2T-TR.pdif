@@ -1,0 +1,98 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "L7824CD2T-TR"
+   (description "L7824CD2T-TR, Voltage Regulator, 1.5A 24 V, 3-Pin D2PAK")
+   (family "ANA")
+   (package "ST_D2PAK")
+   (attribute "Datasheet Link" "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf")
+   (attribute "Mouser Part Number" "511-L7824CD2T-TR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7824CD2T-TR?qs=U28YatCw3SLcrYExoxPobg%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "L7824CD2T-TR")
+   (gate
+    (symbol "L7824CD2T-TR")
+    (pin "INPUT" 1 IP)
+    (pin "OUTPUT" 2 OP)
+    (pin "GND" 3 PP)
+   )
+  )
+  (symbol "L7824CD2T-TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ST_D2PAK"
+   (units MM)
+   (layer TSLK
+    (graphic
+     (stroke 0.39)
+     (circle
+      (pt -2.75149 -15.542) (pt -2.35451 -15.542)
+     )
+    )
+   )
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5.1375 0)
+      (pt 5.1375 0)
+      (pt 5.1375 -9)
+      (pt -5.1375 -9)
+      (pt -5.1375 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.1375 -9)
+      (pt 5.1375 -9))))
+   (leg 1 (pt -2.54 -12.775) (padstack 0))
+   (leg 2 (pt 2.54 -12.775) (padstack 0))
+   (leg 3 (pt 0 -2.5) (padstack 3))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.6 3.5 0 0 90))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 9.75 12.2 0 0 0))
+   )
+   (model "L7824CD2T-TR.stp"
+    (euler 90 0 180)
+    (offset 0 -4.980000019073486 2.200000047683716)
+   )
+  )
+ )
+)

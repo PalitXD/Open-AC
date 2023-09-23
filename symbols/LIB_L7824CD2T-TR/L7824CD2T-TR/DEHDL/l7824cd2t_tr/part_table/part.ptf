@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L7824CD2T_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "L7824CD2T-TR" (!) = "", "ST_D2PAK", "Other", "511-L7824CD2T-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L7824CD2T-TR?qs=U28YatCw3SLcrYExoxPobg%3D%3D", "L7824CD2T-TR, Voltage Regulator, 1.5A 24 V, 3-Pin D2PAK", "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf"
+END_PART
+
+END.
