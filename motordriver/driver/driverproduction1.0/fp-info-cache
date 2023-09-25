@@ -1,4 +1,4 @@
-22213170645966799
+22223343842527684
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61018,6 +61018,13 @@ solder jumper open
 0
 5
 3
+L7
+ST_D2PAK
+ST_D2PAK
+Integrated Circuit
+0
+3
+3
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -84685,6 +84692,13 @@ rotary encoder
 0
 7
 6
+STM32G431
+QFP50P900X900X160-48N
+
+
+0
+48
+48
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -91097,6 +91111,34 @@ igbt diode module
 0
 25
 25
+ULTPS7
+RGW0020A-IPC_A
+
+TPS7A4700RGWR 
+0
+21
+21
+ULTPS7
+RGW0020A-IPC_B
+
+TPS7A4700RGWR 
+0
+21
+21
+ULTPS7
+RGW0020A-IPC_C
+
+TPS7A4700RGWR 
+0
+21
+21
+ULTPS7
+RGW0020A-MFG
+
+TPS7A4700RGWR 
+0
+30
+30
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
