@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "70020K"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-01-16:29:04)
+    (mountForm default
+        (footprintRef "70020K")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '70020K'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "SOS_ELECTRONIC_PART_NUMBER", "SOS_ELECTRONIC_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nuvotem Talema", "70020K" (!) = "", "70020K", "Other", "", "", "Transformer Toroidal PCB 5VA 2x7V o/p 2 Output Toroidal Transformer, 5VA, 2 x 7V ac", "", "19.5 mm"
+END_PART
+
+END.

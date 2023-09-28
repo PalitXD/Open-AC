@@ -1,0 +1,17 @@
+.70020K :1 ;Transformer Toroidal PCB 5VA 2x7V o/p 2 Output Toroidal Transformer, 5VA, 2 x 7V ac
+"70020K"
+*STM T
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=MH1
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16" 17="17" 18="18" 19="MH1"
+*MXP 19
+*DFN 70020K
+~!SOS electronic Part Number (-)
+~!SOS electronic Price/Stock (-)
+~!Manufacturer_Name (Nuvotem Talema)
+~!Manufacturer_Part_Number (70020K)
+~!Link Datasheet (-)
+~!Height (19.5mm)
+~!3D_Model (70020K)
+"70020K"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Nuvotem Talema
+PartNumber=70020K
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=19
+Version=1.2
+Released=2018-11-01 16:29:04
+Downloaded=2023-09-28 09:29:02
+3D=Y
